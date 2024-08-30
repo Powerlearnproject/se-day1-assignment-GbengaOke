@@ -4,16 +4,22 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 a. Explain what software engineering is and discuss its importance in the technology industry.
+
+
 Software engineering is the application of engineering principles. methods and tools to design and deploy  solutions to man's day to day needs. This include the development and maintenance of software solutions to help improve the quality of life of mankind. These software are of critical importance in solving human challenges and are applicable in Commerce, communication, transporttation, healthcare and construction.
 
 
 b. Identify and describe at least three key milestones in the evolution of software engineering.
 Three key milestones in the evolution of software engineering includes
+
+
 1. The development of Programming Language (e.g FORTRAN, C programming languages) which enhanced man capability to interact and use prompt to give executable commands to the computers
 2. The establishing of software engineering as a discipline in 1960s - This facilitated the creation of apps and softwares for ease of solving day to day challenges
 3. The advent of structured programming in 1970 which helped leverage the introduction of Data Analytics, science and engineering.
 
 c. List and briefly explain the phases of the Software Development Life Cycle.
+
+
 Software development life cycle consist of the following
   - Requirements: this involes gathering and documenting user needs and system requirements.
   - Design: Itentails creating high-level and detailed designs of the software architecture and user interface.
@@ -24,6 +30,8 @@ Software development life cycle consist of the following
 
 
 d. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+
 Waterfall Methodology and Agile Methodology are two contrasting approaches to project management and software development.
 Here's a brief comparison:
 
@@ -47,13 +55,18 @@ Here's a brief comparison:
   - **Startups Where rapid adaptation to market feedback and iterative improvements are crucial.
 In summary, Waterfall is suited for projects with clear, unchanging requirements and a structured approach, while Agile excels in environments where flexibility and continuous feedback are necessary.
 
+
 e. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+
 - Software Developer are responsible for writing code and implementing software solutions.
 - Quality Assurance Engineer ensures software quality by designing and executing test plans.
 - Project Manager is tasked with Overseeing the planning, execution, and delivery of software projects.
 
 
 f. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+
 1. Integrated Development Environments (IDEs)
 Importance: IDEs provide a unified interface for writing, testing, and debugging code. They help developers be more efficient by integrating tools like code editors, compilers, and debuggers into one application.
 Examples:
@@ -67,14 +80,19 @@ Examples:
 In summary, IDEs streamline the coding process and enhance productivity, while VCS manage changes and support teamwork, making both essential for efficient and collaborative software development.
 
 
-f. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+g. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+
 - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
 - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
 - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs. 
 Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 
-g. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+h. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+
 Testing is a critical aspect ofsoftware quality  assurance and involves various types of testing, including:
   - Unit Testing: Testing individual components or modules of software to varify that they meet up with requirements.
   - Integration Testing: Testing interactions between different components or subsystems to ensure their integration with one another.
@@ -97,6 +115,8 @@ Importance:
 In short, prompt engineering helps you communicate better with AI, ensuring you get the information or responses you need efficiently.
 
 b. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+
 ##Vague Prompt:
 - “Tell me about climate change.”
 ##Improved Prompt:
